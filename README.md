@@ -1,3 +1,3 @@
 # Transcrptome-Kracken
 
-Paper Link: https://www.ncbi.nlm.nih.gov/pubmed/32163507
+[Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/32163507)
