@@ -6,3 +6,5 @@ Georgia State University, Atlanta, United States of America (USA).
 https://csds.gsu.edu/
 Comparison of transcriptomes from two chemosensory organs in four decapod crustaceans reveals hundreds of candidate chemoreceptor proteins, Mihika T Kozma, Hanh Ngo-Vu, Yuen Yan Wong, Neal S Shukla, Shrikant D Pawar, Adriano Senatore, Manfred Schmidt, Charles Derby, Publication: PLoS ONE Public Library of Science (Publication date: March 12), collaboration
 with Dr. Kozma, Georgia State University, Atlanta, USA, IF=3.7.Github, Article link, [Cited times: 22]^^ DOI: 10.1371/journal.pone.0230266, Issue: 3, Volume: 15, Pages: e0230266.
+††††
+†Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
